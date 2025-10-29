@@ -3,7 +3,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Controller\\" : "src/controller"
+            "Controller\\" : "src/controller",
+            "Services\\" : "src/services"
         }
     },
     "authors": [

@@ -36,7 +36,7 @@ class TemplateRender {
         $this->tlp = new Engine(directory: __DIR__ . '/../views', fileExtension: $extension);
 
         // Adiciona extensão para lidar com assets (CSS, JS, imagens)
-        $this->tlp->loadExtension(extension: new Asset(path: '__BASE__' , filenameMethod: false));
+        $this->tlp->loadExtension(extension: new Asset(path: __BASE__ , filenameMethod: false));
 
         // Registra pastas adicionais
         foreach ($this->tlp_add_folders as $name => $path) {
