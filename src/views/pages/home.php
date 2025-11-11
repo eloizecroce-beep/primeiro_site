@@ -1,16 +1,18 @@
 <?php $this->layout('layouts::default'); ?>
 
 <?php $this->start('main_c') ?>
-<h1>Olá!</h1>
-<p>Sejam bem vindos ao meu primeiro site!</p>
+
+<h1>Sejam bem vindos a minha empresa!</p>
 <a class="btn btn-secundary d-block m-auto mt-2 btn-outline-primary" style="width: 150px;" href="/about">Sobre nós</a> 
 <a class="btn btn-secundary d-block m-auto mt-2 btn-outline-primary" style="width: 150px;" href="/login">Login</a> 
-<img src="<?= $this->asset("img/personagem.webp")?>" alt="imagem">
+<img src="<?= $this->asset("img/imagem.png")?>" alt="imagem">
 
 <?php $this->stop() ?>
 
 <?php $this->start('footer_c') ?>
-<p>Eloize.com</p>
+<div class="bg-dark text-white text-center py-3 fixed-bottom">
+  <p class="mb-0">© 2025 Minha Empresa — Todos os direitos reservados.</p>
+</div>
 <?php $this->stop() ?>
 
 <!-- <?php $this ->start('style')?>
