@@ -2,10 +2,10 @@
 
 <?php $this->start('main_c') ?>
 
-<h1>Sejam bem vindos a minha empresa!</p>
-<a class="btn btn-secundary d-block m-auto mt-2 btn-outline-primary" style="width: 150px;" href="/about">Sobre nós</a> 
+<h1 class="mt-5">Sejam bem vindos a minha empresa!</p>
+<a class="btn btn-secundary d-block m-auto  btn-outline-primary mt-4" style="width: 150px;" href="/about">Sobre nós</a> 
 <a class="btn btn-secundary d-block m-auto mt-2 btn-outline-primary" style="width: 150px;" href="/login">Login</a> 
-<img src="<?= $this->asset("img/imagem.png")?>" alt="imagem">
+<img class="img-fluid mt-8" alt="Minha imagem" src="<?= $this->asset("img/supermercado.png")?>" alt="imagem">
 
 <?php $this->stop() ?>
 

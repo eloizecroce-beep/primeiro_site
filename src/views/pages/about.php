@@ -2,16 +2,24 @@
 
 <?php $this->start('main_c'); ?>
 <form>
-    <h1 class="fs-2 fw-bold">Sobre nós</h1>
-    <h3 class="fs-5 text-center">Somos uma equipe apaixonada por inovação, conhecimento e colaboração.
-Nosso objetivo é oferecer soluções que facilitem o dia a dia das pessoas, unindo tecnologia, criatividade e comprometimento.
-Acreditamos que o trabalho em equipe e o respeito são a base para alcançar grandes resultados.
+  <h1 class="fs-2 fw-bold mt-2 text-start text-warning">Sobre nós:</h1>
+  
+  <h3 class="mt-5 text-danger">Minha Localização</h3>
 
-Desde o início, buscamos construir um ambiente onde todos possam aprender, crescer e contribuir.
-Cada projeto que realizamos é pensado com dedicação, sempre buscando qualidade, responsabilidade e impacto positivo na comunidade.
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.123456789!2d-46.67890!3d-23.56123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59b123456789%3A0xabcdef123456789!2sEndereço!"
+    width="600" 
+    height="450" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy">
+  </iframe>
+  <br>
+  <input class= "mt-5" name="email">
+    <input name="senha">
+    <button type="submmit">Enviar</button>
+ <br>
 
-Mais do que um grupo de pessoas, somos uma família de ideias.
-Estamos aqui para fazer a diferença — com propósito, ética e amor pelo que fazemos.</h3>
 </form>
 <?php $this->stop() ?>
 
