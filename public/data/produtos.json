@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "nome": "Água Mineral - Crystal",
+      "preco": 6599.90,
+      "imagem": "/img/imagem1.jpeg",
+      "descricao": "Um aágua mineral"
+    },
+    {
+      "id": 2,
+      "nome": "Barra de chocolate ao leite - Garoto",
+      "preco": 189.90,
+      "imagem": "assets/imagens/mouse.jpg",
+      "descricao": "Mouse ergonômico com Bluetooth e receptor USB Unifying."
+    },
+    {
+      "id": 3,
+      "nome": "Corte bovino",
+      "preco": 359.90,
+      "imagem": "assets/imagens/teclado.jpg",
+      "descricao": "Teclado com switches mecânicos e iluminação RGB personalizável."
+    },
+    {
+        "id": 4,
+        "nome": "Biscoito Cracker água e sal - Marilan",
+        "preco": 6599.90,
+        "imagem": "assets/imagens/notebook.jpg",
+        "descricao": "Notebook gamer com Intel i7, 16GB RAM, SSD 512GB e RTX 3060."
+    },
+    {
+        "id": 5,
+        "nome": "Biscoito de Chocolate - Trakinas",
+        "preco": 189.90,
+        "imagem": "assets/imagens/mouse.jpg",
+        "descricao": "Mouse ergonômico com Bluetooth e receptor USB Unifying."
+    },
+    {
+        "id": 6,
+        "nome": "Carvão para churrasco - Pampas",
+        "preco": 359.90,
+        "imagem": "assets/imagens/teclado.jpg",
+        "descricao": "Teclado com switches mecânicos e iluminação RGB personalizável."
+    },
+    {
+        "id": 7,
+        "nome": "Amaciante concentrado - Confort",
+        "preco": 6599.90,
+        "imagem": "assets/imagens/notebook.jpg",
+        "descricao": "Notebook gamer com Intel i7, 16GB RAM, SSD 512GB e RTX 3060."
+      },
+    {
+        "id": 8,
+        "nome": "Churrasqueira móvel",
+        "preco": 189.90,
+        "imagem": "assets/imagens/mouse.jpg",
+        "descricao": "Mouse ergonômico com Bluetooth e receptor USB Unifying."
+    },
+    {
+        "id": 9,
+        "nome": "Refrigerante - Coca-Cola",
+        "preco": 359.90,
+        "imagem": "assets/imagens/teclado.jpg",
+        "descricao": "Teclado com switches mecânicos e iluminação RGB personalizável."
+    },
+    {
+        "id": 10,
+        "nome": "Barra de chocolate Crocante - Garoto",
+        "preco": 6599.90,
+        "imagem": "assets/imagens/notebook.jpg",
+        "descricao": "Notebook gamer com Intel i7, 16GB RAM, SSD 512GB e RTX 3060."
+    },
+    {
+        "id": 11,
+        "nome": "Refrigerante Guaraná - Guaraná Antarctica",
+        "preco": 189.90,
+        "imagem": "assets/imagens/mouse.jpg",
+        "descricao": "Mouse ergonômico com Bluetooth e receptor USB Unifying."
+    },
+    {
+        "id": 12,
+        "nome": "Chinelos da bandeirinha - Havaianas ",
+        "preco": 359.90,
+        "imagem": "assets/imagens/teclado.jpg",
+        "descricao": "Teclado com switches mecânicos e iluminação RGB personalizável."
+    },
+    {
+        "id": 13,
+        "nome": "Kit Nobre de 5kg",
+        "preco": 6599.90,
+        "imagem": "assets/imagens/notebook.jpg",
+        "descricao": "Notebook gamer com Intel i7, 16GB RAM, SSD 512GB e RTX 3060."
+    },
+    {
+        "id": 14,
+        "nome": "Cerveja Lata - Brahma",
+        "preco": 189.90,
+        "imagem": "assets/imagens/mouse.jpg",
+        "descricao": "Mouse ergonômico com Bluetooth e receptor USB Unifying."
+    },
+    {
+        "id": 15,
+        "nome": "Spaghetti",
+        "preco": 359.90,
+        "imagem": "assets/imagens/teclado.jpg",
+        "descricao": "Teclado com switches mecânicos e iluminação RGB personalizável."
+    },
+    {
+        "id": 16,
+        "nome": "Barra de chocolate meio amargo - Garoto",
+        "preco": 6599.90,
+        "imagem": "assets/imagens/notebook.jpg",
+        "descricao": "Notebook gamer com Intel i7, 16GB RAM, SSD 512GB e RTX 3060."
+    },
+    {
+        "id": 17,
+        "nome": "Sabão em pó - Brilhante",
+        "preco": 189.90,
+        "imagem": "assets/imagens/mouse.jpg",
+        "descricao": "Mouse ergonômico com Bluetooth e receptor USB Unifying."
+    },
+    {
+        "id": 18,
+        "nome": "Laranja pêra - Kg",
+        "preco": 359.90,
+        "imagem": "assets/imagens/teclado.jpg",
+        "descricao": "Teclado com switches mecânicos e iluminação RGB personalizável."
+    },
+    {
+        "id": 19,
+        "nome": "Arroz tipo 1 - Camil",
+        "preco": 6599.90,
+        "imagem": "assets/imagens/notebook.jpg",
+        "descricao": "Notebook gamer com Intel i7, 16GB RAM, SSD 512GB e RTX 3060."
+    },
+    {
+        "id": 20,
+        "nome": "Feijão Carioca - Kicaldo",
+        "preco": 189.90,
+        "imagem": "assets/imagens/mouse.jpg",
+        "descricao": "Mouse ergonômico com Bluetooth e receptor USB Unifying."
+    }
+  ]
+  
